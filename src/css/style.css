@@ -26,6 +26,8 @@ body {
     height: 100%; }
   #showcase .poster {
     opacity: 0.95; }
+  #showcase img {
+    border-radius: 5px; }
 
 .info-header {
   width: 50%;
