@@ -1,5 +1,5 @@
 body {
-  margin-top: 97px; }
+  margin-top: 95px; }
 
 .navbar {
   box-shadow: 2px 2px 5px #3293a6;
@@ -11,18 +11,19 @@ body {
 
 #showcase {
   position: relative;
-  background: url("../img/bg.jpg");
+  background: url("../img/12226.jpg");
   background-size: cover;
+  background-attachment: fixed;
   min-height: 600px; }
   #showcase .primary-overlay {
     position: absolute;
-    background: rgba(112, 151, 151, 0.8);
+    background: rgba(112, 151, 151, 0.4);
     top: 0;
     left: 0;
     width: 100%;
     height: 100%; }
   #showcase .poster {
-    opacity: 0.7; }
+    opacity: 0.95; }
 
 .info-header {
   width: 50%;
