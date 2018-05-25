@@ -2,7 +2,7 @@ body {
   margin-top: 95px; }
 
 .navbar {
-  box-shadow: 2px 2px 5px #3293a6;
+  box-shadow: 2px 2px 5px #466475;
   background: #fff;
   opacity: 0.9; }
   .navbar .nav-item {
@@ -29,3 +29,16 @@ body {
   width: 50%;
   margin: auto;
   border-bottom: 1px #ddd solid; }
+
+#authors img {
+  margin-top: -55px; }
+
+#authors .fa {
+  font-size: 25px;
+  color: #ebbe43; }
+
+#authors .card:hover {
+  background-color: #ebbe43;
+  color: #fff; }
+  #authors .card:hover .fa {
+    color: #fff; }

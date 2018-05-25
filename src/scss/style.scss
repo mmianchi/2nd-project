@@ -1,5 +1,5 @@
-$primary: #3293a6;
-$secondary:#e7e792;
+$primary: #466475;
+$secondary:rgb(235, 190, 67);
 
 body {
   margin-top: 95px;
@@ -38,4 +38,21 @@ body {
   width: 50%;
   margin:auto;
   border-bottom: 1px #ddd solid;
+}
+
+#authors {
+  img {
+    margin-top: -55px;
+  }
+  .fa {
+    font-size: 25px;
+    color:$secondary;
+  }
+  .card:hover {
+    background-color: $secondary;
+    color: #fff;
+    .fa {
+      color:#fff;
+    }
+  }
 }
