@@ -1,7 +1,7 @@
 $primary: #3293a6;
 
 body {
-  margin-top: 105px;
+  margin-top: 97px;
 }
 
 .navbar {
@@ -31,4 +31,10 @@ body {
   .poster {
     opacity: 0.7;
   }
+}
+
+.info-header {
+  width: 50%;
+  margin:auto;
+  border-bottom: 1px #ddd solid;
 }
