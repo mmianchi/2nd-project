@@ -49,3 +49,7 @@ body {
   background: url("../img/10116.jpg");
   opacity: 0.9;
   color: white; }
+
+#mainfooter a, #mainfooter span {
+  color: white;
+  font-size: 0.8rem; }
