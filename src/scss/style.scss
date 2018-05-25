@@ -2,7 +2,7 @@ $primary: #466475;
 $secondary:rgb(235, 190, 67);
 
 body {
-  margin-top: 95px;
+  margin-top: 78px;
 }
 
 .navbar {
@@ -10,8 +10,11 @@ body {
   background: #fff;
   opacity:0.9;
   .nav-item {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     padding-right: 20px;
+  }
+  .nav-link {
+    color: #466475 !important;
   }
 }
 
